@@ -1,0 +1,8 @@
+modLoader="neoforge"
+loaderVersion="[21,)"
+license="MIT"
+[[mods]]
+modId="miningdimension"
+version="1.0.0"
+displayName="Mining Dimension"
+description='''A simple mining dimension with base ores and EvilCraft ores, with no mob spawning.'''
